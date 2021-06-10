@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ambika-2109
 - 👀 I’m interested in coding , designing and developing.
 - 🌱 I’m currently learning android develpoment.
-- 💞️ I’m looking to collaborate on projects realated to android dev.
+- 💞️ I’m looking to collaborate on projects realated to android dev and full stack web_development.
 - 📫 Mail for collaboration @ambika21092k@gmail.com
 
 <!---
